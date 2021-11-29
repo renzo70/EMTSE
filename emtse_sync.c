@@ -1,5 +1,5 @@
 /* 
- * This file is part of the EMTSE Project (https://gitlab.com/emtse/emtse).
+ * This file is part of the EMTSE Project (https://github.com/renzo70/EMTSE).
  * Copyright (c) 2018-2021 Renzo Grover Fabián Espinoza (renzo.fe@ieee.org).
  * 
  * This program is free software: you can redistribute it and/or modify  
